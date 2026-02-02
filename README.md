@@ -101,8 +101,8 @@ body {
 /* ------------------- MAIN CARD ------------------- */
 .card {
     background: white;
-    width: 85%;
-    max-width: 480px;
+    width: 100%;
+    max-width: 500px;
     padding: 52px 36px;
     border-radius: 32px;
     text-align: center;
@@ -348,7 +348,7 @@ for (let i=0;i<35;i++){
 
     <div class="shareFrame">
         <h3 style="color:#5a4c66;font-size:1.4rem;margin-bottom:4px;">Let’s Get It!💃🏽🕺🏾</h3>
-        <p style="color:#7a6a8e;">💗Here's to you🥂💗</p>
+        <p style="color:#7a6a8e;">💗Here's to you & me🥂💗</p>
     </div>
 
     <div id="shareSignature">— MBILIMA 😌</div>
